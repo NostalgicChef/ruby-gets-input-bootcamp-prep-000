@@ -1,4 +1,4 @@
-def greeting(belit)
-  name = greeting
-  puts "Hi, #{greeting}! Welcome to the wonderful world of Ruby programming."
+def greeting(name
+  name = grets.strip
+  puts "Hi, #{name}! Welcome to the wonderful world of Ruby programming."
 end
